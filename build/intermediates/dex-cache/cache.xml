@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sandeep\StudioProjects\ContactManger\contactManger\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Sandeep\StudioProjects\ContactManger\contactManger\build\intermediates\pre-dexed\debug\classes-b3a7b8e849a422497b1138efbb9ef4880e72f0e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandeep\StudioProjects\ContactManger\contactManger\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Sandeep\StudioProjects\ContactManger\contactManger\build\intermediates\pre-dexed\debug\classes-5a3bbff9dde1a14dea9eb343dca09af6c11a30f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandeep\StudioProjects\ContactManger\contactManger\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Sandeep\StudioProjects\ContactManger\contactManger\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-17afe158300320c7e24fde0b88ef8469bca1dad1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandeep\StudioProjects\ContactManger\contactManger\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\Sandeep\StudioProjects\ContactManger\contactManger\build\intermediates\pre-dexed\debug\classes-1dd4e02e0c6daedbb3d5e3ff8ceb86a84cfeac2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandeep\StudioProjects\ContactManger\contactManger\libs\sugar-1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5f8a323697ff1f101f72a345b14185d76d7c4353">
+        <dex dex="C:\Users\Sandeep\StudioProjects\ContactManger\contactManger\build\intermediates\pre-dexed\debug\sugar-1.3-8355e8b81249b886b3fbec95ad50e77bfae5e7b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandeep\StudioProjects\ContactManger\contactManger\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Sandeep\StudioProjects\ContactManger\contactManger\build\intermediates\pre-dexed\debug\classes-4e84254089fa8d30ac5657285551050baf884f7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandeep\StudioProjects\ContactManger\contactManger\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\Sandeep\StudioProjects\ContactManger\contactManger\build\intermediates\pre-dexed\debug\classes-bd73454f806deacff6e1b7aadd30d70c3389da8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandeep\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Sandeep\StudioProjects\ContactManger\contactManger\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-bccef4ba544e5596a29eedd665583b773c1580ab.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContactManger.iml" filepath="$PROJECT_DIR$/ContactManger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contactManger/contactManger.iml" filepath="$PROJECT_DIR$/contactManger/contactManger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design/design.iml" filepath="$PROJECT_DIR$/design/design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
+    </modules>
+  </component>
+</project>
